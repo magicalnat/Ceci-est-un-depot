@@ -1,0 +1,361 @@
+ID_CAT_POI;Nom_cat_poi;Nom_cat_poi_fr
+1;Accommodation;Logement
+2;Hotel;Hôtel
+3;HotelTrade;Hôtellerie
+4;CulturalSite;Site culturel
+5;Museum;Musée
+6;SportsAndLeisurePlace;Lieu de sports et de loisirs
+7;CollectiveAccommodation;Logement collectif
+8;HolidayResort;Station de vacances
+9;FoodEstablishment;Établissement alimentaire
+10;Restaurant;Restaurant
+11;HotelRestaurant;Restaurant de l'hôtel
+12;Store;Magasin
+13;LocalTouristOffice;Office de tourisme local
+14;TouristInformationCenter;Centre d'information touristique
+15;Guesthouse;Maison d'hôtes
+16;RentalAccommodation;Logement locatif
+17;SelfCateringAccommodation;Hébergement indépendant
+18;Product;Produit
+19;EquipmentRentalShop;Magasin de location d'équipement
+20;ServiceProvider;Fournisseur de services
+21;Rental;De location
+22;EquipmentRental;Location d'équipement
+23;StopOverOrGroupLodge;Gîte d'étape ou de groupe
+24;GroupLodging;Hébergement de groupe
+25;ParkAndGarden;Parc Et Jardin
+26;Beach;Plage
+27;NaturalHeritage;Héritage naturel
+28;Castle;Château
+29;RemarkableBuilding;Bâtiment Remarquable
+30;Camping;Camping
+31;CampingAndCaravanning;Camping Et Caravaning
+32;DefenceSite;Site de la Défense
+33;FortifiedCastle;Château fortifié
+34;Tour;Tour
+35;WalkingTour;Visite à pied
+36;EducationalTrail;Sentier pédagogique
+37;OrderedList;Liste ordonnée
+38;ReligiousSite;Site religieux
+39;Abbey;une abbaye
+40;BistroOrWineBar;Bistrot Ou Bar à Vin
+41;BarOrPub;Bar Ou Pub
+42;BusinessPlace;Lieu d'affaires
+43;ConventionCentre;Centre de convention
+44;NonHousingRealEstateRental;Location de biens immobiliers non résidentiels
+45;CyclingTour;Tour à vélo
+46;BrasserieOrTavern;Brasserie Ou Taverne
+47;EntertainmentAndEvent;Divertissement et événement
+48;SaleEvent;Événement de vente
+49;Market;Marché
+50;Visit;Visite
+51;FitnessCenter;Centre Fitness
+52;GourmetRestaurant;Restaurant gastronomique
+53;GolfCourse;Terrain de golf
+54;Farm;Cultiver
+55;TeachingFarm;Ferme pédagogique
+56;TechnicalHeritage;Patrimoine technique
+57;Library;Bibliothèque
+58;CraftsmanShop;Boutique d'artisan
+59;ArtGalleryOrExhibitionGallery;Galerie d'art ou galerie d'exposition
+60;Cinema;Cinéma
+61;Church;Église
+62;Cloister;Cloître
+63;SwimmingPool;Piscine
+64;Theater;Théâtre
+65;TastingProvider;Prestataire de dégustation
+66;PigeonLoft;Pigeonnier
+67;BoutiqueOrLocalShop;Boutique ou magasin local
+68;IncomingTravelAgency;Agence de voyages réceptive
+69;TourOperatorOrTravelAgency;Tour opérateur ou agence de voyage
+70;EquestrianCenter;Centre Equestre
+71;IndustrialSite;Site industriel
+72;TennisComplex;Complexe de tennis
+73;CoveredMarket;Marché couvert
+74;Stadium;Stade
+75;Cellar;Cave
+76;TrackRollerOrSkateBoard;Rouleau de piste ou planche à roulettes
+77;FitnessPath;Parcours de remise en forme
+78;IceSkatingRink;Patinoire
+79;SummerToboggan;Luge d'été
+80;CafeOrTeahouse;Café ou salon de thé
+81;CulturalEvent;Événement culturel
+82;Concert;Concert
+83;RemembranceSite;Lieu de mémoire
+84;NightClub;Boîte de nuit
+85;BuddhistTemple;Temple bouddhiste
+86;TouristTrain;Train Touristique
+87;CivilCemetery;Cimetière civil
+88;SightseeingBoat;Bateau de tourisme
+89;ZooAnimalPark;Parc zoologique animalier
+90;ThemePark;Parc d'attractions
+91;PlayArea;Aire de jeux
+92;Exhibition;Exposition
+93;SportsCompetition;Compétition sportive
+94;SportsEvent;Événement sportif
+95;LocalAnimation;Animations locales
+96;SocialEvent;Événement social
+97;ShowEvent;Afficher l'événement
+98;TheaterEvent;Événement théâtral
+99;YouthHostelAndInternationalCenter;Auberge de jeunesse et centre international
+100;Cabaret;Cabaret
+101;Mosque;Mosquée
+102;ClimbingWall;Mur d'escalade
+103;Synagogue;Synagogue
+104;FastFoodRestaurant;Restauration rapide
+105;CityHeritage;Patrimoine de la ville
+106;Palace;Palais
+107;Collegiate;Collégial
+108;ArcheologicalSite;Site archéologique
+109;RomanPath;Voie romaine
+110;Bridge;Pont
+111;Chapel;Chapelle
+112;InterpretationCentre;Centre d'interprétation
+113;Mill;Moulin
+114;Transporter;Transporteur
+115;MedicalPlace;Lieu médical
+116;Pharmacy;Pharmacie
+117;RacingCircuit;Circuit de course
+118;Commanderie;Commanderie
+119;MilitaryCemetery;Cimetière militaire
+120;Practice;Pratique
+121;CircusPlace;Place du Cirque
+122;Cathedral;cathédrale
+123;BricABrac;Bric ABrac
+124;GarageSale;Vide-grenier
+125;DepartmentStore;Grand magasin
+126;Transport;Le transport
+127;Airfield;Aérodrome
+128;BowlingAlley;Allée de bowling
+129;AntiqueAndSecondhandGoodDealer;Marchand d'antiquités et d'occasions
+130;RiverPort;Port fluvial
+131;VivariumAquarium;Aquarium-vivarium
+132;FairOrShow;Foire ou spectacle
+133;Conference;Conférence
+134;ArtistSigning;Signature d'artiste
+135;ShoppingCentreAndGallery;Centre commercial et galerie
+136;BoulesPitch;Terrain de pétanque
+137;MiniGolf;Mini golf
+138;Basilica;Basilique
+139;Forest;Forêt
+140;Bakery;Pâtisserie
+141;Airport;Aéroport
+142;SquashCourt;Terrain de squash
+143;Racetrack;Piste de course
+144;LocalProductsShop;Boutique de produits locaux
+145;HorseTour;Tour à cheval
+146;FluvialTour;Circuit fluvial
+147;District;District
+148;Aqueduct;Aqueduc
+149;IceCreamShop;Glacier
+150;TaxiCompany;Compagnie de taxis
+151;TrainStation;Gare
+152;Fort;Fort
+153;Spa;Spa
+154;Temple;Temple
+155;Convent;Couvent
+156;Ruins;Ruines
+157;Gymnasium;Gymnase
+158;Tower;La tour
+159;Game;Jeu
+160;Canal;Canal
+161;BalneotherapyCentre;Centre de Balnéothérapie
+162;MultiPurposeRoomOrCommunityRoom;Salle polyvalente ou salle communautaire
+163;Marina;Marina
+164;Velodrome;Vélodrome
+165;Casino;Casino
+166;HealthcarePlace;Lieu de soins de santé
+167;TraditionalCelebration;Célébration traditionnelle
+168;Festival;Festival
+169;DanceEvent;Événement de danse
+170;ChildrensEvent;Événement pour enfants
+171;OpenDay;Journée portes ouvertes
+172;Rambling;Randonnée
+173;Traineeship;Stage
+174;VisualArtsEvent;Événement d'arts visuels
+175;Rally;Se rallier
+176;ScreeningEvent;Événement de projection
+177;Carnival;Carnaval
+178;SportsDemonstration;Démonstration sportive
+179;Parade;Parade
+180;Reading;En lisant
+181;BusinessEvent;Événement d'affaires
+182;TrainingWorkshop;Atelier de formation
+183;Competition;Concurrence
+184;Commemoration;Commémoration
+185;Recital;Récital
+186;CircusEvent;Événement Cirque
+187;Congress;Congrès
+188;Seminar;Séminaire
+189;PilgrimageAndProcession;Pèlerinage et procession
+190;ReligiousEvent;Événement religieux
+191;Opera;Opéra
+192;Harvest;Récolter
+193;FreePractice;Pratique libre
+194;ActivityProvider;Fournisseur d'activité
+195;Course;Cours
+196;MultiActivity;Multi-activités
+197;CulturalActivityProvider;Fournisseur d'activités culturelles
+198;Producer;Producteur
+199;ProducersGroup;Groupe de producteurs
+200;Trader;Commerçant
+201;Farmer;Agriculteur
+202;AccommodationProduct;Produit d'hébergement
+203;House;Loger
+204;Apartment;Appartement
+205;ClubOrHolidayVillage;Club Ou Village De Vacances
+206;Lake;Lac
+207;Pond;Étang
+208;FarmhouseInn;Auberge de ferme
+209;SelfServiceCafeteria;Cafétéria en libre service
+210;WineCellar;Cave à vin
+211;Cooperative;Coopérative
+212;NaturalCuriosity;Curiosité naturelle
+213;AccompaniedPractice;Pratique Accompagnée
+214;ViaFerrata;Via ferrata
+215;CamperVanArea;Aire de camping-car
+216;CaveSinkholeOrAven;Grotte Gouffre Ou Aven
+217;ConvenientService;Service pratique
+218;PicnicArea;Aire de pique nique
+219;KidsClub;Club enfants
+220;LeisureComplex;Complexe de loisirs
+221;SchoolOrTrainingCentre;École ou centre de formation
+222;Tasting;Dégustation
+223;Hammam;Hammam
+224;PointOfView;Point de vue
+225;Hillsides;Coteaux
+226;Landes;Landes
+227;Brewery;Brasserie
+228;CastleAndPrestigeMansion;Château Et Demeure De Prestige
+229;CampingPitch;Emplacement de camping
+230;Room;Chambre
+231;RoadTour;Circuit routier
+232;EquipmentRepairShop;Atelier de réparation d'équipement
+233;Dungeon;Donjon
+234;Monastery;Monastère
+235;Citadel;Citadelle
+236;LeisureSportActivityProvider;Prestataire d'activités de loisirs sportifs
+237;Mine;Mien
+238;Chalet;Chalet
+239;Agent;Agent
+240;MountainResort;Station de montagne
+241;PlaceOfInterest;Lieu d'intérêt
+242;PointOfInterest;Point d'intérêt
+243;NaturalPark;Parc naturel
+244;FortifiedSet;Ensemble fortifié
+245;Bog;Tourbière
+246;Swamp;Marais
+247;HolidayCentre;Centre de vacances
+248;FrontonBelotaCourt;Cour du Fronton Belota
+249;ChildrensGite;Gîte pour enfants
+250;CampingCar;Camping car
+251;TouristBus;Autobus touristique
+252;Wetland;Zone humide
+253;HealthcareProfessional;Professionnel de la Santé
+254;WifiHotSpot;Borne wifi
+255;RVServiceArea;Zone de service RV
+256;River;Rivière
+257;Auditorium;Salle
+258;VolunteerTourGuideOrGreeter;Guide touristique bénévole ou Greeter
+259;Trampoline;Trampoline
+260;Calvary;Calvaire
+261;Yurt;Yourte
+262;TourismCentre;Centre de Tourisme
+263;StreetFood;L'alimentation de rue
+264;BeachClub;club de la plage
+265;TreeHouse;Cabane dans les arbres
+266;ElectricVehicleChargingPoint;Borne de recharge pour véhicules électriques
+267;IntroductionCourse;Cours d'introduction
+268;Tipi;Tipis
+269;RemarkableHouse;Maison Remarquable
+270;DevelopmentCourse;Cours de développement
+271;BilliardRoom;Salle de billard
+272;Dune;Dune
+273;Cirque;Cirque
+274;Parking;Parking
+275;WaterSource;Source d'eau
+276;Hut;Cabane
+277;LaunchingRamp;Rampe de lancement
+278;ThalassotherapyCentre;Centre de Thalassothérapie
+279;Lock;Bloquer
+280;CrossCountrySkiTrail;Sentier de ski de fond
+281;TourismCableCar;Téléphérique touristique
+282;CableCarStation;Station de téléphérique
+283;WashHouse;Lavoir
+284;Chartreuse;Chartreuse
+285;FirstPractice;Premier entraînement
+286;Arena;Arène
+287;Orchard;Verger
+288;Stables;Écuries
+289;Bubble;Bulle
+290;Mountain;Montagne
+291;Cliff;Falaise
+292;Canyon;Canyon
+293;MegalithDolmenMenhir;Mégalithe Dolmen Menhir
+294;DownhillSkiRun;Piste de ski alpin
+295;TobogganBobsleigh;Toboggan Bobsleigh
+296;Volcano;Volcan
+297;Lighthouse;Phare
+298;Fountain;Fontaine
+299;Coastline;Littoral
+300;TableHotes;Table d'hôtes
+301;TableHoteGuesthouse;Table d'hôtes Guesthouse
+302;Jetty;Jetée
+303;NauticalCentre;Centre Nautique
+304;PublicLavatories;Toilettes publiques
+305;MountainRestaurant;Restaurant de montagne
+306;DepartementTourismCommittee;Comité Départemental du Tourisme
+307;ProfessionalTourGuide;Guide touristique professionnel
+308;Cybercafe;Cybercafé
+309;ChalkyLawn;Pelouse crayeuse
+310;Culture;Culture
+311;CrossCountrySkiResort;Station de ski de fond
+312;DownhillSkiResort;Station de ski alpin
+313;HypermarketAndSupermarket;Hypermarché et supermarché
+314;Gorge;Gorge
+315;TaxiStation;Arrêt de taxi
+316;CarpoolArea;Espace covoiturage
+317;Col;Col
+318;Bastide;Bastide
+319;Seaport;Port de mer
+320;BoatRestaurant;Bateau-Restaurant
+321;IslandPeninsula;Péninsule de l'île
+322;SportsClub;Club de sport
+323;Source;La source
+324;Stone;Pierre
+325;Waterfall;Cascade
+326;HalophilicArea;Zone halophile
+327;Tent;Tente
+328;AlpinePasture;Alpage
+329;RegionalTourismCommittee;Comité Régional du Tourisme
+330;Bocage;Bocage
+331;LeftLuggage;Consigne à bagages
+332;Stream;Flux
+333;Pier;Jetée
+334;Bishopric;Évêché
+335;Grassland;Prairie
+336;Plateau;Plateau
+337;BusStop;Arrêt de bus
+338;BusStation;Station de bus
+339;ATM;AU M
+340;SportsHall;Salle de sport
+341;ChamberOfCommerceAndIndustry;Chambre du Commerce et de l'Industrie
+342;Valley;Vallée
+343;Peak;De pointe
+344;Crest;Crête
+345;TriumphalArch;Arc de Triomphe
+346;YachtClub;Club Yacht
+347;ConeNeck;Col conique
+348;LevyOrDike;Prélèvement ou digue
+349;UnderwaterRoute;Route sous-marine
+350;Bungalow;Bungalow
+351;Cinematheque;Cinémathèque
+352;Summit;Sommet
+353;Bed;Lit
+354;Plain;Plaine
+355;DogSleddingTrail;Sentier de traîneau à chiens
+356;GarageOrAirPump;Garage ou pompe à air
+357;CarOrBikeWash;Lavage de voiture ou de vélo
+358;BikeStationOrDepot;Station ou dépôt de vélo
+359;Causse;Causse
+360;HouseBoat;Bateau-maison
